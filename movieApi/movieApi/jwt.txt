@@ -1,0 +1,9 @@
+->jwt dependency->pom.xml
+->user model ->with refresh token field
+->user repo
+->refresh token ->model
+->refresh token repo
+->ApplicationConfig -> for beans of important interfaces/classes
+->JwtService
+->RefreshTokenService
+->AuthFilterService
